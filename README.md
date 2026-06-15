@@ -1,4 +1,4 @@
-# Terraform Azure Storage Account creating simple code
+# Terraform Azure Storage Account create use simple code
 
 ## Overview
 
