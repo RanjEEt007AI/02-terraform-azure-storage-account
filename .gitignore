@@ -1,0 +1,33 @@
+# Terraform working directory
+.terraform/
+
+# Terraform state files
+*.tfstate
+*.tfstate.*
+
+# Variable files (may contain secrets)
+*.tfvars
+*.tfvars.json
+
+# Terraform lock file (optional)
+.terraform.lock.hcl
+
+# Crash logs
+crash.log
+
+# Override files
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+
+# # Sensitive files
+# *.pem
+# *.key
+
+# # VS Code
+# .vscode/
+
+# # Windows
+# Thumbs.db
+# Desktop.ini
