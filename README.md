@@ -1,8 +1,8 @@
-# Terraform Azure Storage Account simple
+# Terraform Azure Storage Account creating simple code
 
 ## Overview
 
-This project demonstrates how to provision an Azure Storage Account using Terraform. The deployment includes:
+This project demonstrates how to provision an Azure Storage Account using simple Terraform code. The deployment includes:
 
 * Azure Resource Group
 * Azure Storage Account
